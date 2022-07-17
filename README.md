@@ -1,4 +1,6 @@
-## I'm Sonam Tripathi “likes to EXplore the WorLD of DATA SCIence💻"!  
+## I'm Sonam Tripathi “likes to EXplore the WorLD of DATA SCIence💻"! 
+
+### Life long learner....
 
 ### Hi there 👋  Here is What I'm Working ON!
 Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistics, ● Python ● R ● SQL
