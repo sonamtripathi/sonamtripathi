@@ -5,7 +5,7 @@
 ### Hi there 👋  Here is What I'm Working ON!
 Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistics, ● Python ● R ● SQL
 
-- 😃 Data Sceince proffessional with 5+ years of experience in Analytics domain.
+- 😃 Data Sceince proffessional with ~6 years of experience in Analytics domain.
 - 😃 Presently working as Sr.Data Analytics in Novartis Pharmaceuticals.
 - 😃 I had worked on Python, Statistics, R, NLP, Computer Vision Projects. 
 - ⏳ Currently working on Projects on Statistical📈 📊 modelings..
