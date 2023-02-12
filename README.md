@@ -7,8 +7,9 @@ Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistic
 
 - 😃 Data Sceince proffessional with ~6 years of experience in Analytics domain.
 - 😃 Presently working as Sr.Data Analytics in Novartis Pharmaceuticals.
-- 😃 I had worked on Python, Statistics, R, NLP, Computer Vision Projects. 
-- ⏳ Currently working on Projects on Statistical📈 📊 modelings..
+- 😃 I had worked on Marketing Analytics, NLP, Computer Vision Projects. 
+- Mostly works in Python and R
+- ⏳ Currently working on Projects on Pre-trained transformer models📈.
 - 💬 Ask me about: Anything..
 - 📫 How to reach me: tripathi92sonam@gmail.com
 
