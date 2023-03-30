@@ -5,8 +5,8 @@
 ### Hi there 👋  Here is What I'm Working ON!
 Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistics, ● Python ● R ● SQL
 
-- 😃 Data Sceince proffessional with ~6 years of experience in Analytics domain.
-- 😃 Presently working as Sr.Data Analytics in Novartis Pharmaceuticals.
+- 😃 Data Sceince proffessional with 6+ years of experience in Analytics domain.
+- 😃 Presently working as Sr.Associate Manager at Eli Lilly & Company.
 - 😃 I had worked on Marketing Analytics, NLP, Computer Vision Projects. 
 - Mostly works in Python and R
 - ⏳ Currently working on Projects on Pre-trained transformer models📈.
