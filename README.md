@@ -2,8 +2,8 @@
 
 ### Life long learner....
 
-### Hi there 👋  Here is What I'm Working ON!
-Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistics, ● Python ● R ● SQL
+### Hi there 👋  Here is my key Skills...
+● Machine Learning ● Deep Learning ● Computer Vision ● NLP ● Statistics, ● Python ● R ● SQL
 
 - 😃 Data Sceince proffessional with 6+ years of experience in Analytics domain.
 - 😃 Presently working as Sr.Associate Manager at Eli Lilly & Company.
@@ -13,4 +13,4 @@ Data Science ● Analytics ● Machine Learning ● Deep Learning, ● Statistic
 - 💬 Ask me about: Anything..
 - 📫 How to reach me: tripathi92sonam@gmail.com
 
-[![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonamtripathi)](https://github.com/sonamtripathi/github-readme-stats)
+
