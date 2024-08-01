@@ -11,6 +11,6 @@
 - Mostly works in Python and R
 - ⏳ Currently working on Projects on Pre-trained transformer models📈.
 - 💬 Ask me about: Anything..
-- 📫 How to reach me: tripathi92sonam@gmail.com
+
 
 
